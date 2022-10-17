@@ -5,7 +5,7 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 |Esquematico|
 |:---:|
-|]![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)|
+|![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)|
 |Fonte: Proprio Autor|
 
 
@@ -16,9 +16,9 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 
 |Visão 3D|
-:---:
-|![Visão 3D]![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
-
+|:---:|
+|![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
+|Fonte: Proprio Autor|
 
 
 Participantes do Projeto:
