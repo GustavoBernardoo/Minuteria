@@ -4,9 +4,9 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 
 |Esquematico|
-:---:
-|![Esquematico]![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)
-
+|:---:|
+|]![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)|
+|Fonte: Proprio Autor|
 
 
 |PCB Layout|
