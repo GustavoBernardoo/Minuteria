@@ -9,9 +9,9 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 
 
-|PCB|
+|PCB Layout|
 |:----------------------------------------------------:|
-|[PCB LAYOUT]![image](https://user-images.githubusercontent.com/111302603/196236314-9e4ec0ed-dc7c-49ee-b4a8-d47eebf7698c.png)|
+|image](https://user-images.githubusercontent.com/111302603/196236314-9e4ec0ed-dc7c-49ee-b4a8-d47eebf7698c.png)|
 |Fonte: Proprio Autor|
 
 
