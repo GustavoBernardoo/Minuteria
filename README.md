@@ -23,8 +23,8 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 Participantes do Projeto:
 
-Gabriel Coelho
-Gustavo Bernardo 
-João dos Santos
-Raul Vitor
-Wesley Lima
+Gabriel Coelho.
+Gustavo Bernardo.
+João dos Santos.
+Raul Vitor.
+Wesley Lima.
