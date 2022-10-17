@@ -1,6 +1,6 @@
 Minuteria
 
-Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar ou desligar uma carga com um tempo pré definido por uma chave com 3 configurações, sendo elas de 30seg, 60seg e 90seg.
+Um projeto de eletrônica chamado de minuteria, onde tem o intuito de ligar ou desligar uma carga com um tempo pré definido por uma chave com 3 configurações, sendo elas de 30seg, 60seg e 90seg.
 
 
 |Figura 1: Esquematico|
