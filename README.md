@@ -7,9 +7,9 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 
 
-[PCB]![image](![image](https://user-images.githubusercontent.com/111302603/196236314-9e4ec0ed-dc7c-49ee-b4a8-d47eebf7698c.png)
+![image](![image](https://user-images.githubusercontent.com/111302603/196236314-9e4ec0ed-dc7c-49ee-b4a8-d47eebf7698c.png)
 
 
 
-[Visao 3D]![image](![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
+![image](![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
 
