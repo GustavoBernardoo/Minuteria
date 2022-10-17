@@ -11,7 +11,7 @@ Um projeto de eletrônica chamado de minuteria, onde tem o intuito de ligar ou d
 
 |Figura 2: PCB Layout|
 |:----------------------------------------------------:|
-|![image](https://user-images.githubusercontent.com/111302603/196236314-9e4ec0ed-dc7c-49ee-b4a8-d47eebf7698c.png)|
+|![image]![image](https://user-images.githubusercontent.com/111302603/196266733-52ee2bd6-872b-4056-9244-40d374b0949d.png)
 |Fonte: Próprio autor|
 
 
