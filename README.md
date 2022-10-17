@@ -2,8 +2,9 @@
 
 Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar ou desligar uma carga com um tempo pré definido por uma chave com 3 configurações, sendo elas de 30seg, 60seg e 90seg.
 
-
-[Esquematico]![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)
+|Esquematico|
+:---:
+|![Esquematico]![image](https://user-images.githubusercontent.com/111302603/196236499-e054c46d-5ac2-4bb0-a90b-5f4a41f1e6ce.png)
 
 
 
