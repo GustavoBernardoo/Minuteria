@@ -15,5 +15,7 @@ Um projeto de eletrônica chamado de temporizador, onde tem o intuito de ligar o
 
 
 
-[Visão 3D![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
+|Visão 3D|
+:---:
+|![Visão 3D]![image](https://user-images.githubusercontent.com/111302603/196236064-aa8125a8-66c6-4a31-8aa6-b362f3ae2f2a.png)
 
